@@ -1,0 +1,20 @@
+# Web scraping
+requests
+beautifulsoup4
+
+# Data handling
+pandas
+numpy
+
+# Machine learning
+scikit-learn
+
+# Jupyter notebook
+notebook
+
+# Optional: for plotting and visualization
+matplotlib
+seaborn
+
+#html parsing
+lxml
